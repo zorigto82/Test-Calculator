@@ -3,7 +3,7 @@ package Exercises.Calculator;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class Calculator {
+class Calculator {
     static final int length = 3;
 
     public static void main(String[] args) {
